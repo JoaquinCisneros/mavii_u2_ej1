@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Box2dEmptyApp.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main.cpp
+  Game.cpp
+  SFMLRenderer.cpp
+C:\Descargas\Facu\MAVII\EsqueletoAPP\Box2dFirstApp\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Descargas\Facu\MAVII\EsqueletoAPP\Box2dFirstApp\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> C:\Descargas\Facu\MAVII\EsqueletoAPP\Box2dFirstApp\Bin\Debug\Mavii_u2_ej1.exe
